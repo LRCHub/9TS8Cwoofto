@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "METAVERSE",
+  "base_artist": "びわ湖くん feat. ピーナッツくん",
+  "createdAt": "2026-03-08T06:15:28.404843Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Metaverse",
+      "artist": "Lujipeka",
+      "has_synced": true,
+      "path": "select/01_Metaverse_Lujipeka.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Métaverse",
+      "artist": "Lefa",
+      "has_synced": true,
+      "path": "select/02_Métaverse_Lefa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "METAVERSE",
+      "artist": "Ralphie Choo feat. Wet",
+      "has_synced": true,
+      "path": "select/03_METAVERSE_Ralphie_Choo_feat._Wet.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "METAVERSE",
+      "artist": "Ralphie Choo",
+      "has_synced": false,
+      "path": "select/04_METAVERSE_Ralphie_Choo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "METAVERSE",
+      "artist": "Ralphie Choo/Wet",
+      "has_synced": true,
+      "path": "select/05_METAVERSE_Ralphie_Choo_Wet.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Metaverse",
+      "artist": "Datarock",
+      "has_synced": false,
+      "path": "select/06_Metaverse_Datarock.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Metaverse",
+      "artist": "Cage The Elephant",
+      "has_synced": false,
+      "path": "select/07_Metaverse_Cage_The_Elephant.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Metaverse (Lyric Video)",
+      "artist": "Cage The Elephant",
+      "has_synced": true,
+      "path": "select/08_Metaverse_(Lyric_Video)_Cage_The_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I SAW HIM IN THE METAVERSE HE IS A BITCH THERE TOO.",
+      "artist": "Mikey The Magician",
+      "has_synced": true,
+      "path": "select/09_I_SAW_HIM_IN_THE_METAVERSE_HE_IS_A_BITCH_THERE_TOO._Mikey_The_Magician.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Metaverse (Official Video)",
+      "artist": "Olamide",
+      "has_synced": false,
+      "path": "select/10_Metaverse_(Official_Video)_Olamide.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Olamide - Metaverse (Official Video)",
+      "artist": "Olamide",
+      "has_synced": true,
+      "path": "select/11_Olamide_-_Metaverse_(Official_Video)_Olamide.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Metaverse",
+      "artist": "Olamide",
+      "has_synced": false,
+      "path": "select/12_Metaverse_Olamide.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Olamide - Metaverse (Official Video)",
+      "artist": "Olamide",
+      "has_synced": true,
+      "path": "select/13_Olamide_-_Metaverse_(Official_Video)_Olamide.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Metaverse",
+      "artist": "Cage The Elephant",
+      "has_synced": true,
+      "path": "select/14_Metaverse_Cage_The_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Metaverse (Official Video)",
+      "artist": "Olamide",
+      "has_synced": true,
+      "path": "select/15_Metaverse_(Official_Video)_Olamide.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "METAVERSE",
+      "artist": "びわ湖くん,ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_METAVERSE_びわ湖くん,ピーナッツくん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "METAVERSE",
+      "artist": "びわ湖くん,ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_02_METAVERSE_びわ湖くん,ピーナッツくん.txt"
+    }
+  ]
+}
